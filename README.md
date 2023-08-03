@@ -16,7 +16,9 @@ A continuación, una lista de algunos de los proyectos destacados en este reposi
   2. Juego de espias (cifrado cesar) [Clic](Cap2/!ProyectoMensajeSecreto.c)
   3. Desactiva la bomba (Juego en el cual tenemos que ocupar las matematicas para llegar a un resultado esperado y poder desactivar la bomba) [Clic](Cap3/!ProyectoDesactivaLaBomba.c)
   4. Discursos locos (Imprime frases aleatorias de un array) [Clic](Cap4/!ProyectoDiscursoLoco.c)
-Entre otros
+  
+  
+  Entre otros
 
 
 
