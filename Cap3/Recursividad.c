@@ -1,3 +1,5 @@
+// El programa ordena un arreglo de números enteros utilizando el algoritmo de ordenación QuickSort. Luego, imprime los elementos del arreglo en orden ascendente.
+
 #include <stdio.h>
 
 void swap(int v[], int i, int n);
