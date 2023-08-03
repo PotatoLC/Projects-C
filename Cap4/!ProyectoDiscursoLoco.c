@@ -1,7 +1,5 @@
 /* 
-En el programa decido utilizar un "do-while", esto porque siento que es mas facil de entender 
-cuando tenemos varias opciones, lo que hace es si el usuario pone algo distinto de 7 (salir), sigue mostrando 
-el menu.
+Ejecutable en el cual imprime nombres, verbos y situaciones aleatorias, esto con un menú en el cual el usuario puede añadir cualquiera de estos
 */
 
 #include <stdio.h>
