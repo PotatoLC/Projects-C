@@ -1,4 +1,8 @@
-// Juego de turno, el usuario y la maquina tienen que adivinar la letra secreta.
+/*
+Este es un pequeño juego en lenguaje C donde el usuario y una IA tratan de adivinar una letra secreta entre 'a' y 'z'. 
+El programa proporciona pistas sobre si la letra elegida es mayor o menor que la letra secreta. 
+¡Diviértete adivinando y compitiendo con la IA! 
+*/
 
 #include <stdio.h>
 #include <stdlib.h>
