@@ -1,3 +1,8 @@
+/*
+El programa busca y muestra todas las líneas de entrada que contienen la subcadena "es". Utiliza la función 
+strindex para determinar si la subcadena está presente en cada línea y luego imprime las líneas que cumplen con la condición.
+*/
+
 
 #include <stdio.h>
 
