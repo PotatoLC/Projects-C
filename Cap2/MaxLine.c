@@ -1,3 +1,5 @@
+// El programa lee líneas de entrada y muestra la línea más larga encontrada.
+
 #include <stdio.h>
 
 #define MAX_LINE 1000
