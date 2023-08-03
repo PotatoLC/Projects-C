@@ -1,4 +1,4 @@
-// Proyecto para encriptar y desencriptar mensajes
+// Proyecto para encriptar y desencriptar mensajes mediante cifrado Cesar
 
 #include <stdio.h>
 
