@@ -1,3 +1,8 @@
+/*
+El programa cuenta el número de caracteres, palabras y líneas en la entrada de texto y muestra los resultados al final.
+*/
+
+
 #include <stdio.h>
 
 #define IN 1 
