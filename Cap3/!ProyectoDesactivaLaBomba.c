@@ -1,3 +1,10 @@
+/*
+El programa es un juego de lógica y aritmética en C. El usuario debe desactivar una bomba mediante la combinación de cinco 
+números aleatorios y operadores (+, -, *) para igualar otro número aleatorio (la "bomba"). El juego evalúa las respuestas del
+usuario y proporciona pistas sobre qué dígitos faltan para desactivar la bomba. El usuario puede jugar varias veces si lo desea.
+*/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
