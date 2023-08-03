@@ -1,3 +1,9 @@
+/*
+El programa lee líneas de entrada y las ordena alfabéticamente utilizando el algoritmo de ordenación QuickSort. 
+Luego, imprime las líneas ordenadas. Si la entrada supera el límite máximo de líneas a ordenar (MAXLINES), muestra un mensaje de error.
+*/
+
+
 #include <stdio.h>
 #include <string.h>
 #include "librerialineas.h"
