@@ -1,3 +1,8 @@
+/* 
+El programa copia una cadena de origen a otra y luego compara ambas cadenas. Imprime la cadena copiada y un resultado de 
+comparación (0 si son iguales, negativo si la copia es menor, positivo si es mayor).
+*/
+
 #include <stdio.h>
 
 #define MAX_LINE 1000
