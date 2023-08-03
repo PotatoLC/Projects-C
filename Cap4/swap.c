@@ -1,3 +1,5 @@
+// El programa intercambia los valores de dos variables utilizando la función swap. Imprime los valores antes y después del intercambio.
+
 #include <stdio.h>
 
 void swap(int *px, int *py);
