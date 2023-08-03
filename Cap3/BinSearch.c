@@ -1,3 +1,8 @@
+/*
+El programa implementa una función de búsqueda binaria para encontrar un número específico en un array ordenado.
+Si el número se encuentra en el array, muestra su posición; de lo contrario, muestra "Número no encontrado".
+*/
+
 #include <stdio.h>
 
 int binsearch(int x, int v[], int n); 
