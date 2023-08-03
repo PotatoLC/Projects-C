@@ -1,3 +1,6 @@
+// El programa ordena un arreglo de números enteros utilizando el algoritmo de ordenación Shell Sort. 
+//Luego, imprime los elementos del arreglo en orden ascendente.
+
 #include <stdio.h>
 
 void shellshort(int v[], int n);
