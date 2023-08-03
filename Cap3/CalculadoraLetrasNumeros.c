@@ -1,3 +1,9 @@
+/*
+El programa convierte líneas de entrada en números de punto flotante utilizando la función atof, una versión propia de atof 
+para convertir cadenas en números de punto flotante. Luego, imprime los resultados con un formato específico.
+*/
+
+
 #include <stdio.h>
 #include <ctype.h>
 #include "libreria.h"
