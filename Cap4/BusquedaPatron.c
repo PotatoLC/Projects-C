@@ -1,3 +1,9 @@
+/*
+El programa busca líneas que contengan una palabra específica (patrón) proporcionada como argumento de línea de comando. Lee líneas 
+de entrada y busca el patrón utilizando la función strstr de la biblioteca estándar. Si encuentra una coincidencia, imprime la línea.
+Al final, devuelve el número de líneas encontradas. Si no se proporciona el patrón como argumento, muestra un mensaje para solicitarlo.
+*/
+
 #include <stdio.h>
 #include <string.h>
 #include "librerialineas.h"
