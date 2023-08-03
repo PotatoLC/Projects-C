@@ -1,3 +1,7 @@
+/*
+El programa cuenta el número total de caracteres en la entrada de texto y muestra el resultado al final.
+*/
+
 
 #include <stdio.h>
 
