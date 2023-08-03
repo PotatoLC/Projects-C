@@ -1,3 +1,5 @@
+// Programa para sacar potencias a un numero
+
 #include <stdio.h>
 
 int power(int base, int power);
