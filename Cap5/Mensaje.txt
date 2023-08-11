@@ -1,0 +1,5 @@
+Hola hola
+
+Tengo una pequeñita duda y espero me puedan ayudar, al momento de imprimir los gustos del usuario me sale una carita feliz, no sé de donde sale pero no afecta al programa, solo duda.
+
+gracias :)

@@ -1,0 +1,65 @@
+
+Instructor: Nate Gentile
+Nombre: Programacion con Python
+Plataforma: MasterMind
+Enlance: https://mastermind.ac/courses/iniciacion-python
+
+Instructor: Antonio Sarosi
+Nombre: Manejo de Git
+Plataforma: MasterMind
+Enlace: https://mastermind.ac/courses/git-de-noob-a-pro
+
+Instructor: Paco Gomez
+Nombre: Programacion con C
+Plataforma: MasterMind
+Enlace: https://mastermind.ac/courses/lenguaje-c-desde-cero-kernighan-y-ritchie
+
+Instructor: Paco Gomez
+Nombre: Programacion con Java POO
+Plataforma: MasterMind
+Enlace: https://mastermind.ac/courses/aprende-java-y-programacion-orientada-a-objetos
+
+Instructor: Kike Gandia
+Nombre: Como protegerse en la red
+Plataforma: MasterMind
+Enlace: https://mastermind.ac/courses/seguridad-en-internet
+
+Instructor: David Sanchez
+Nombre: Ingenieria social
+Plataforma: MasterMind
+Enlace: https://mastermind.ac/courses/introduccion-ingenieria-social
+
+Instructor: Kike Gandia
+Nombre: Hacking y fortificacion web
+Plataforma: MasterMind
+Enlace: https://mastermind.ac/courses/hacking-y-fortificacion-web
+
+Instructor: s4vitar
+Nombre: Hacking Etico
+Plataforma: MasterMind
+Enlace: https://mastermind.ac/courses/introduccion-al-hacking-etico
+
+Instructor: s4vitar
+Nombre: Hacking de redes Inalambricas
+Plataforma: MasterMind
+Enlace: https://mastermind.ac/courses/hacking-de-redes-inalambricas-wifi
+
+Instructor: Antonio Sarosi
+Nombre: Manejo de Linux
+Plataforma: MasterMind
+Enlace: https://mastermind.ac/courses/linux-de-noob-a-pro-en-nueve-horas
+
+Instructor: Kike Gandia
+Nombre: Manejo de Linux K
+Plataforma: YouTube
+Enlace: https://www.youtube.com/watch?v=wUjt1qLs3rU&list=PLG1hKOHdoXktPkbN_sxqr1fLqDle8wnOh&pp=iAQB
+
+Instructor: Kike Gandia
+Nombre: Hacking Etico K
+Plataforma: YouTube
+Enlace: https://www.youtube.com/watch?v=l2t4B6NdIp0&list=PLG1hKOHdoXkvhIO_x62ivA3iLh-m9L_3V&pp=iAQB
+
+Instructor: s4vitar
+Nombre: SQL Injection
+Plataforma: YouTube
+Enlace: https://www.youtube.com/watch?v=C-FiImhUviM&t=276s&pp=ygUMczR2aXRhciBzcWxp
