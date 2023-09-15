@@ -11,6 +11,8 @@ Below is a list of some of the featured projects in this repository:
 2. Spy Game (Caesar Cipher) [Click](Cap2/!ProyectoMensajeSecreto.c) 🔍🔒
 3. Defuse the Bomb (A game that involves using mathematics to reach an expected result and defuse the bomb) [Click](Cap3/!ProyectoDesactivaLaBomba.c) 💣🔢
 4. Crazy Speeches (Prints random phrases from an array) [Click](Cap4/!ProyectoDiscursoLoco.c) 🗣️💬
+5. Find Friends (Interest Matching) [Click](Cap5/4-ProyectoBuscaAmigos.c) 🧑‍🤝‍🧑🔍
+6. File Handling in C (Course References) [Click](Cap6/3-ProyectoSabiduriaMaxima.c) 📂📝
   
 
 Among others
